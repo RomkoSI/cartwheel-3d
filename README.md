@@ -16,7 +16,9 @@ http://cartwheel-3d.googlecode.com/hg/web/editorScreenShot.jpg
 Videos
 
 See the YouTube vidoes of the project: 
-http://www.youtube.com/watch?v=lOxeyyooDmw
-http://www.youtube.com/watch?v=MHj8RDfyqP0
+
+Part 1: http://www.youtube.com/watch?v=lOxeyyooDmw ,
+
+Part 2: http://www.youtube.com/watch?v=MHj8RDfyqP0
 
 Projects owners: * Stelian Coros * Philippe Beaudoin * Michiel van de Panne
